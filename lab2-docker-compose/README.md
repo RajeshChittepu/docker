@@ -67,6 +67,7 @@ phpmyadmin:
     
 
 #####################################################
+
 6. Now start the application group:
 
     docker-compose up -d
