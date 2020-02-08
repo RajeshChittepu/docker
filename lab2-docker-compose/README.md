@@ -23,6 +23,7 @@
 5. Create The WordPress Site: 
 
 ##############################################
+
 #sudo vi docker-compose.yml
 
 wordpress:
